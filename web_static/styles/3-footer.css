@@ -5,8 +5,6 @@ footer {
 	height: 60px;
 	width: 100%;
 	bottom: 0;
-	justify-content: center;
-	position: relative;
-	align-items: center;
-	display: flex;
+	position: absolute;
+	line-height: 60px
 }
